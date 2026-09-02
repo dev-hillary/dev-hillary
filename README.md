@@ -4,7 +4,7 @@
 
 ### 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 
-💻 Desenvolvedora em formação | 🚀 Sempre aprendendo | 💡 Apaixonada por tecnologia
+🎨 UI/UX Design | 💻 Desenvolvimento Web | 🚀 Sempre aprendendo
 
 </div>
 
@@ -14,9 +14,21 @@
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e estou construindo minha jornada na área de tecnologia.
 
-Atualmente, estou desenvolvendo meus conhecimentos em **programação, lógica e desenvolvimento web**, buscando colocar em prática o que aprendo por meio de projetos e desafios.
+Tenho interesse em **UI/UX Design, desenvolvimento web e criação de interfaces**, buscando unir tecnologia, criatividade e experiência do usuário.
 
-Tenho interesse em **desenvolvimento de software, tecnologia e Inteligência Artificial** e estou sempre buscando evoluir minhas habilidades.
+Já utilizei a plataforma **Figma** para criação e prototipação de interfaces e estou desenvolvendo meus conhecimentos em **design de interfaces (UI), experiência do usuário (UX), programação e desenvolvimento web**.
+
+Também tenho interesse em **Inteligência Artificial** e estou sempre buscando aprender novas ferramentas e aprimorar minhas habilidades.
+
+---
+
+## 🎨 UI/UX Design
+
+- 🎨 Figma
+- 🖥️ Design de interfaces (UI)
+- 👤 Experiência do usuário (UX)
+- 📐 Prototipação de interfaces
+- 💡 Interesse em criar soluções simples e intuitivas
 
 ---
 
@@ -24,7 +36,7 @@ Tenho interesse em **desenvolvimento de software, tecnologia e Inteligência Art
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,html,css,js,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=figma,python,c,html,css,js,git,github,vscode" />
 
 </div>
 
@@ -32,10 +44,12 @@ Tenho interesse em **desenvolvimento de software, tecnologia e Inteligência Art
 
 ## 📚 Atualmente estudando
 
+- 🎨 **UI/UX Design**
+- 🖌️ **Figma**
 - 🐍 **Python**
-- 💻 **Linguagem C**
-- 🌐 **HTML & CSS**
 - ⚡ **JavaScript**
+- 🌐 **HTML & CSS**
+- 💻 **Linguagem C**
 - 🔧 **Git & GitHub**
 - 🤖 **Inteligência Artificial**
 
@@ -43,17 +57,35 @@ Tenho interesse em **desenvolvimento de software, tecnologia e Inteligência Art
 
 ## 🚀 Meus projetos
 
+### 🎨 Projetos de UI/UX
+
+Projetos e estudos voltados para criação de interfaces, prototipação e aplicação de conceitos de UI/UX.
+
+🔗 **Em breve**
+
 ### 🐍 Projetos em Python
 
 Exercícios e projetos desenvolvidos para praticar programação e desenvolver meus conhecimentos em Python.
 
-🔗 [**Ver projetos em Python**](https://github.com/dev-hillary/projetos-python)
+🔗 **Ver projetos em Python**
 
 ### 💻 Projetos em C
 
 Exercícios desenvolvidos durante meus estudos para praticar lógica de programação e fundamentos da linguagem C.
 
-🔗 [**Ver projetos em C**](https://github.com/dev-hillary/projetos-c)
+🔗 **Ver projetos em C**
+
+---
+
+## 🎓 Atividades acadêmicas
+
+### 👥 Liderança acadêmica — Turma de ADS
+
+Atuação na organização e compartilhamento de materiais acadêmicos, além de apoio na comunicação e organização das atividades da turma.
+
+### 🚀 Hackathon IEL
+
+Participação em equipe no desenvolvimento de uma solução para um desafio proposto, aplicando tecnologia, criatividade e resolução de problemas.
 
 ---
 
@@ -73,11 +105,11 @@ Exercícios desenvolvidos durante meus estudos para praticar lógica de programa
 
 <div align="center">
 
-<a href="https://github.com/dev-hillary">
+<a href="SEU_GITHUB">
 <img src="https://img.shields.io/badge/GitHub-dev--hillary-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="https://www.linkedin.com/in/hillary-alcântara">
+<a href="SEU_LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-Hillary-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
@@ -87,8 +119,6 @@ Exercícios desenvolvidos durante meus estudos para praticar lógica de programa
 
 <div align="center">
 
-### 🚀 Aprendendo, praticando e evoluindo todos os dias.
-
-⭐ Obrigada pela visita ao meu perfil!
+💡 **Transformando ideias em soluções através da tecnologia e do design.**
 
 </div>
