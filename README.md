@@ -1,38 +1,38 @@
 <div align="center">
 
-# 👋 Olá! Eu sou a Hillary!
+# Olá, eu sou a Hillary
 
-### 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+### Estudante de Análise e Desenvolvimento de Sistemas
 
-🎨 UI/UX Design | 💻 Desenvolvimento Web | 🚀 Sempre aprendendo
+UI/UX Design | Desenvolvimento Web & de Sistemas | Em constante aprendizado
 
 </div>
 
 ---
 
-## 👩‍💻 Sobre mim
+## Sobre mim
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e estou construindo minha jornada na área de tecnologia.
 
-Tenho interesse em **UI/UX Design, desenvolvimento web e criação de interfaces**, buscando unir tecnologia, criatividade e experiência do usuário.
+Tenho interesse em **UI/UX Design, desenvolvimento web, desenvolvimento de sistemas e criação de interfaces**, buscando unir tecnologia, criatividade e experiência do usuário.
 
-Já utilizei a plataforma **Figma** para criação e prototipação de interfaces e estou desenvolvendo meus conhecimentos em **design de interfaces (UI), experiência do usuário (UX), programação e desenvolvimento web**.
+Utilizo a plataforma **Figma** para criação e prototipação de interfaces e busco aprimorar meus conhecimentos em **design de interfaces (UI), experiência do usuário (UX), programação, desenvolvimento de sistemas e aplicações web**.
 
-Também tenho interesse em **Inteligência Artificial** e estou sempre buscando aprender novas ferramentas e aprimorar minhas habilidades.
-
----
-
-## 🎨 UI/UX Design
-
-- 🎨 Figma
-- 🖥️ Design de interfaces (UI)
-- 👤 Experiência do usuário (UX)
-- 📐 Prototipação de interfaces
-- 💡 Interesse em criar soluções simples e intuitivas
+Também tenho interesse em **Inteligência Artificial** e no aprendizado constante de novas ferramentas.
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+## UI/UX Design
+
+- Figma
+- Design de interfaces (UI)
+- Experiência do usuário (UX)
+- Prototipação de interfaces
+- Criação de soluções simples e intuitivas
+
+---
+
+## Tecnologias e ferramentas
 
 <div align="center">
 
@@ -42,49 +42,49 @@ Também tenho interesse em **Inteligência Artificial** e estou sempre buscando 
 
 ---
 
-## 📚 Atualmente estudando
+## Atualmente estudando
 
-- 🎨 **UI/UX Design**
-- 🖌️ **Figma**
-- ⚡ **JavaScript & Web Front-End**
-- 🐍 **Python**
-- 💻 **Linguagem C**
-- 🔧 **Git & GitHub**
-- 🤖 **Inteligência Artificial**
+- **UI/UX Design & Prototipação**
+- **Figma**
+- **JavaScript & Web Front-End**
+- **Python**
+- **Linguagem C**
+- **Git & GitHub**
+- **Inteligência Artificial**
 
 ---
 
-## 🚀 Meus projetos
+## Meus projetos
 
-### 🌐 Projetos Web & Front-End
+### Projetos Web & Front-End
 Aplicações web desenvolvidas com HTML5, CSS3 e JavaScript (Calculadora, Lista de Tarefas, etc.).  
-🔗 [Acessar Repositório de Projetos Front-End](https://github.com/dev-hillary/projetos-frontend)
+[Acessar Repositório de Projetos Front-End](https://github.com/dev-hillary/projetos-frontend)
 
-### 🎨 Projetos de UI/UX
+### Projetos de UI/UX
 Projetos e estudos voltados para criação de interfaces, prototipação e aplicação de conceitos de UI/UX.  
-🔗 *Em breve*
+[Acessar Repositório de UI/UX Design](https://github.com/dev-hillary/projetos-ui-ux-design)
 
-### 🐍 Projetos em Python
+### Projetos em Python
 Exercícios e projetos desenvolvidos para praticar programação e desenvolver meus conhecimentos em Python.  
-🔗 *Ver projetos em Python*
+[Acessar Repositório de Projetos em Python](https://github.com/dev-hillary/projetos-python)
 
-### 💻 Projetos em C
+### Projetos em C
 Exercícios desenvolvidos durante meus estudos para praticar lógica de programação e fundamentos da linguagem C.  
-🔗 *Ver projetos em C*
+[Acessar Repositório de Projetos em C](https://github.com/dev-hillary/projetos-c)
 
 ---
 
-## 🎓 Atividades acadêmicas
+## Atividades acadêmicas
 
-### 👥 Liderança acadêmica — Turma de ADS
+### Liderança acadêmica — Turma de ADS
 Atuação na organização e compartilhamento de materiais acadêmicos, além de apoio na comunicação e organização das atividades da turma.
 
-### 🚀 Hackathon IEL
+### Hackathon IEL
 Participação em equipe no desenvolvimento de uma solução para um desafio proposto, aplicando tecnologia, criatividade e resolução de problemas.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -96,7 +96,7 @@ Participação em equipe no desenvolvimento de uma solução para um desafio pro
 
 ---
 
-## 🌐 Vamos nos conectar?
+## Contato e Redes
 
 <div align="center">
 
@@ -114,6 +114,6 @@ Participação em equipe no desenvolvimento de uma solução para um desafio pro
 
 <div align="center">
 
-💡 **Transformando ideias em soluções através da tecnologia e do design.**
+Transformando ideias em soluções através da tecnologia e do design.
 
 </div>
