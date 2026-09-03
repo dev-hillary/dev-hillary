@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou a Hillary
+# 👋 Olá! Eu sou a Hillary!
 
 ### Estudante de Análise e Desenvolvimento de Sistemas
 
