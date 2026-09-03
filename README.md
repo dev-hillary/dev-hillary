@@ -46,9 +46,8 @@ Também tenho interesse em **Inteligência Artificial** e estou sempre buscando 
 
 - 🎨 **UI/UX Design**
 - 🖌️ **Figma**
+- ⚡ **JavaScript & Web Front-End**
 - 🐍 **Python**
-- ⚡ **JavaScript**
-- 🌐 **HTML & CSS**
 - 💻 **Linguagem C**
 - 🔧 **Git & GitHub**
 - 🤖 **Inteligência Artificial**
@@ -57,34 +56,30 @@ Também tenho interesse em **Inteligência Artificial** e estou sempre buscando 
 
 ## 🚀 Meus projetos
 
+### 🌐 Projetos Web & Front-End
+Aplicações web desenvolvidas com HTML5, CSS3 e JavaScript (Calculadora, Lista de Tarefas, etc.).  
+🔗 [Acessar Repositório de Projetos Front-End](https://github.com/dev-hillary/projetos-frontend)
+
 ### 🎨 Projetos de UI/UX
-
-Projetos e estudos voltados para criação de interfaces, prototipação e aplicação de conceitos de UI/UX.
-
-🔗 **Em breve**
+Projetos e estudos voltados para criação de interfaces, prototipação e aplicação de conceitos de UI/UX.  
+🔗 *Em breve*
 
 ### 🐍 Projetos em Python
-
-Exercícios e projetos desenvolvidos para praticar programação e desenvolver meus conhecimentos em Python.
-
-🔗 **Ver projetos em Python**
+Exercícios e projetos desenvolvidos para praticar programação e desenvolver meus conhecimentos em Python.  
+🔗 *Ver projetos em Python*
 
 ### 💻 Projetos em C
-
-Exercícios desenvolvidos durante meus estudos para praticar lógica de programação e fundamentos da linguagem C.
-
-🔗 **Ver projetos em C**
+Exercícios desenvolvidos durante meus estudos para praticar lógica de programação e fundamentos da linguagem C.  
+🔗 *Ver projetos em C*
 
 ---
 
 ## 🎓 Atividades acadêmicas
 
 ### 👥 Liderança acadêmica — Turma de ADS
-
 Atuação na organização e compartilhamento de materiais acadêmicos, além de apoio na comunicação e organização das atividades da turma.
 
 ### 🚀 Hackathon IEL
-
 Participação em equipe no desenvolvimento de uma solução para um desafio proposto, aplicando tecnologia, criatividade e resolução de problemas.
 
 ---
@@ -105,12 +100,12 @@ Participação em equipe no desenvolvimento de uma solução para um desafio pro
 
 <div align="center">
 
-<a href="SEU_GITHUB">
+<a href="https://github.com/dev-hillary" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-dev--hillary-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="SEU_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-Hillary-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://www.linkedin.com/in/hillary-alc%C3%A2ntara" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Hillary--Alcântara-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 </div>
