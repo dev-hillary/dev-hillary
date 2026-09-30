@@ -95,53 +95,6 @@ Explorando IA como ferramenta de aprendizado, desenvolvimento e resolução de p
 
 ---
 
-<details>
-<summary>♡ mais sobre mim</summary>
-
-<br>
-
-**STATUS:** ONLINE  
-**FOCO:** TECNOLOGIA  
-**ÁREA:** DESENVOLVIMENTO  
-**INTERESSES:** WEB • SISTEMAS • UI/UX • IA  
-**FERRAMENTA:** FIGMA  
-**EDITOR:** VS CODE  
-
-<br>
-
-Estou no início da minha trajetória profissional, mas venho construindo projetos, estudando diferentes tecnologias e buscando evoluir constantemente.
-
-Meu objetivo é unir **código + design + criatividade** para criar soluções digitais funcionais e visualmente interessantes.
-
-</details>
-
----
-
-<details>
-<summary>⌘ terminal</summary>
-
-<br>
-
-**whoami**
-
-`Hillary`
-
-**current_focus**
-
-`web-development` · `systems-development` · `ui-ux` · `artificial-intelligence`
-
-**status**
-
-`● ONLINE`
-
-**message**
-
-*"aprendendo, criando e evoluindo."*
-
-</details>
-
----
-
 ## `CONNECT://HILLARY`
 
 <div align="center">
