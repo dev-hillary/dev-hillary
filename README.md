@@ -1,106 +1,318 @@
 <div align="center">
 
-# HILLARY ✦
+<br>
 
-### `Estudante de ADS • Desenvolvimento • UI/UX`
+# ୨୧ HILLARY ✦
+
+### `ADS STUDENT  •  WEB  •  SYSTEMS  •  UI/UX`
 
 <br>
 
-![Online](https://img.shields.io/badge/●_ONLINE-ff69b4?style=for-the-badge&labelColor=1a1a22&color=ff69b4)
+![ONLINE](https://img.shields.io/badge/●%20SYSTEM%20ONLINE-ff69b4?style=for-the-badge&labelColor=16141c&color=ff69b4)
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=FF69B4&center=true&vCenter=true&width=500&lines=carregando+criatividade...;explorando+tecnologia...;criando+interfaces...;aprendendo+e+construindo..." alt="Typing">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2600&pause=800&color=FF82C7&center=true&vCenter=true&width=550&lines=carregando+criatividade...;explorando+tecnologia...;criando+interfaces...;aprendendo+e+construindo...;transformando+ideias+em+c%C3%B3digo..." alt="Typing">
+
+<br>
+
+`⌁ tecnologia` &nbsp; `♡ criatividade` &nbsp; `✦ aprendizado`
 
 </div>
 
 ---
 
-### ♡ sobre mim
+<div align="center">
 
-> Oi! Eu sou a Hillary 👋  
-> Sou estudante de **Análise e Desenvolvimento de Sistemas** e gosto de unir programação, criatividade e design de interfaces. Estou construindo minha experiência através de estudos e projetos reais.
+### `SYSTEM://PROFILE`
 
----
-
-### ✦ `HILLARY.DEV`
+</div>
 
 <table>
 <tr>
-<td>
+<td width="50%" valign="top">
 
 ```text
 ╭──────────────────────────────╮
 │  HILLARY.DEV                 │
 │                              │
-│  ● SYSTEM ONLINE             │
+│  ● ONLINE                    │
 │                              │
-│  UI/UX       ████████░░      │
-│  FRONT-END   ████████░░      │
-│  PYTHON      ██████░░░░      │
+│  ADS STUDENT                 │
+│  UI/UX                       │
+│  CREATIVE MODE ♡             │
 │                              │
-│  mode: learning              │
+│  status: learning            │
 ╰──────────────────────────────╯
 ```
 
 </td>
-<td>
 
-**atualmente explorando ♡**
+<td width="50%" valign="top">
 
-`desenvolvimento web`  
-`UI/UX Design`  
-`Python`  
-`JavaScript`  
-`Inteligência Artificial`
+### ♡ sobre mim
+
+Oi! Eu sou a **Hillary** 👋
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou construindo minha trajetória na tecnologia.
+
+Tenho interesse em **Desenvolvimento Web, Desenvolvimento de Sistemas, UI/UX e Inteligência Artificial**.
+
+Gosto de unir lógica, tecnologia e criatividade para transformar ideias em projetos.
 
 </td>
 </tr>
 </table>
 
-> *As barras são apenas elementos visuais da interface.*
+---
+
+<div align="center">
+
+## `MODULES://DEVELOPMENT`
+
+</div>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🌐 `WEB.DEV`
+
+**DESENVOLVIMENTO WEB**
+
+```text
+STATUS: EXPLORING ●
+```
+
+`HTML`  
+`CSS`  
+`JavaScript`
+
+**foco**
+
+→ criação de sites  
+→ interfaces  
+→ front-end  
+→ experiências digitais
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚙️ `SYSTEMS.DEV`
+
+**DESENVOLVIMENTO DE SISTEMAS**
+
+```text
+STATUS: LEARNING ●
+```
+
+`Python`  
+`C`
+
+**foco**
+
+→ programação  
+→ lógica  
+→ estruturas  
+→ desenvolvimento de sistemas
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-### 🎀 tecnologias
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-ffb6d9?style=flat-square&logo=python&logoColor=222)
-![C](https://img.shields.io/badge/C-e8c7ff?style=flat-square&logo=c&logoColor=222)
-![JavaScript](https://img.shields.io/badge/JavaScript-ffd6e7?style=flat-square&logo=javascript&logoColor=222)
-![HTML5](https://img.shields.io/badge/HTML5-ff9fc9?style=flat-square&logo=html5&logoColor=222)
-![CSS3](https://img.shields.io/badge/CSS3-d9b8ff?style=flat-square&logo=css3&logoColor=222)
-![Git](https://img.shields.io/badge/Git-ffb6d9?style=flat-square&logo=git&logoColor=222)
-![GitHub](https://img.shields.io/badge/GitHub-e8c7ff?style=flat-square&logo=github&logoColor=222)
-![Figma](https://img.shields.io/badge/Figma-ff9fc9?style=flat-square&logo=figma&logoColor=222)
+### `DATABASE://TECH_STACK`
+
+`WEB`
+
+![HTML5](https://img.shields.io/badge/HTML5-ff8fc7?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-c9a0ff?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ffb6d9?style=flat-square&logo=javascript&logoColor=222)
+
+`SYSTEMS / PROGRAMMING`
+
+![Python](https://img.shields.io/badge/Python-c9a0ff?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-ffb6d9?style=flat-square&logo=c&logoColor=222)
+
+`DESIGN`
+
+![Figma](https://img.shields.io/badge/Figma-ff8fc7?style=flat-square&logo=figma&logoColor=white)
+
+`TOOLS`
+
+![Git](https://img.shields.io/badge/Git-c9a0ff?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-ffb6d9?style=flat-square&logo=github&logoColor=222)
+![VS Code](https://img.shields.io/badge/VS_Code-ff8fc7?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+---
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+### `01`
+
+**WEB DEVELOPMENT**
+
+```text
+████████░░
+```
+
+`HTML`  
+`CSS`  
+`JavaScript`
+
+</td>
+
+<td width="33%" align="center">
+
+### `02`
+
+**SYSTEMS DEVELOPMENT**
+
+```text
+███████░░░
+```
+
+`Python`  
+`C`  
+`Lógica`
+
+</td>
+
+<td width="33%" align="center">
+
+### `03`
+
+**UI / UX**
+
+```text
+████████░░
+```
+
+`Figma`  
+`Interfaces`  
+`Experiência`
+
+</td>
+
+</tr>
+</table>
+
+<div align="center">
+
+`[ ONLINE ]` &nbsp; ` [ LEARNING ]` &nbsp; ` [ BUILDING ]` &nbsp; ` [ EXPLORING ]`
+
+</div>
+
+> *As barras acima são apenas elementos visuais da interface e não representam níveis reais de habilidade.*
+
+---
+
+<div align="center">
+
+## `MODULE://UI_UX`
+
+### `STATUS: ACTIVE ●`
+
+`Figma` &nbsp; `Interface Design` &nbsp; `User Experience`
+
+> Interesse em criar interfaces bonitas, organizadas e fáceis de utilizar.
+
+`✦ design + tecnologia + experiência`
+
+</div>
+
+---
+
+<div align="center">
+
+## `MODULE://AI`
+
+```text
+┌─────────────────────────────────────┐
+│ ARTIFICIAL INTELLIGENCE             │
+│                                     │
+│ STATUS: EXPLORING ●                 │
+│                                     │
+│ > entender                          │
+│ > testar                            │
+│ > validar                           │
+│ > aprender                          │
+└─────────────────────────────────────┘
+```
+
+Inteligência Artificial faz parte dos meus estudos e é utilizada como ferramenta de apoio para **aprender, explorar ideias, testar soluções e desenvolver**.
+
+</div>
+
+---
+
+### `TERMINAL://HILLARY`
+
+```text
+$ whoami
+
+Hillary Alcântara
+
+$ focus
+
+> Desenvolvimento Web
+> Desenvolvimento de Sistemas
+> UI/UX
+> Inteligência Artificial
+
+$ status
+
+learning...
+building...
+creating...
+
+$ next
+
+keep_learning();
+```
 
 ---
 
 <details>
-<summary>♡ mais sobre mim</summary>
+<summary>♡ <b>mais sobre mim</b></summary>
 
 <br>
 
 Gosto de aprender colocando a mão na massa, testar diferentes ideias e transformar aquilo que estudo em algo funcional.
 
-Tenho interesse especial em **desenvolvimento web, interfaces e UI/UX**, buscando unir lógica e criatividade naquilo que construo.
+Minha jornada ainda está sendo construída — e cada projeto, erro e descoberta faz parte dela.
 
 </details>
 
 <details>
-<summary>୨୧ curiosidade</summary>
+<summary>୨୧ <b>acesso restrito</b></summary>
 
 <br>
 
 ```text
-> current_status
+> checking access...
 
-aprendendo...
-criando...
-testando...
-melhorando...
+ACCESS GRANTED ✓
 
-[ nunca parar de evoluir ♡ ]
+Você encontrou uma área secreta.
+
+> continue exploring...
 ```
+
+`01001000 01101001`
+
+`H I ♡`
 
 </details>
 
@@ -108,14 +320,32 @@ melhorando...
 
 <div align="center">
 
-### `vamos criar algo? ♡`
+## `CONNECTION://HILLARY`
 
-[![GitHub](https://img.shields.io/badge/GitHub-18181f?style=for-the-badge&logo=github&logoColor=ffb6d9)](https://github.com/dev-hillary)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-18181f?style=for-the-badge&logo=linkedin&logoColor=e8c7ff)](https://www.linkedin.com/in/hillary-alc%C3%A2ntara)
-[![Email](https://img.shields.io/badge/Email-18181f?style=for-the-badge&logo=gmail&logoColor=ff9fc9)](mailto:hillaryalcantara.1q@gmail.com)
+### vamos criar algo? ♡
 
 <br>
 
-`♡ technology • creativity • interfaces`
+[![GitHub](https://img.shields.io/badge/GitHub-18141d?style=for-the-badge&logo=github&logoColor=ff9fd0)](https://github.com/dev-hillary)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-18141d?style=for-the-badge&logo=linkedin&logoColor=c9a0ff)](https://www.linkedin.com/in/hillary-alc%C3%A2ntara)
+
+[![Email](https://img.shields.io/badge/Email-18141d?style=for-the-badge&logo=gmail&logoColor=ff82c7)](mailto:hillaryalcantara.1q@gmail.com)
+
+<br><br>
+
+`♡ technology` &nbsp; `✦ creativity` &nbsp; `⌁ interfaces`
+
+<br>
+
+```text
+┌─────────────────────────────────────┐
+│                                     │
+│       SYSTEM STATUS: ONLINE ●       │
+│                                     │
+│       LEARN • BUILD • CREATE        │
+│                                     │
+└─────────────────────────────────────┘
+```
 
 </div>
