@@ -17,7 +17,7 @@
 <div align="center">
 
 <!-- HOLOGRAMA -->
-<img src="holograma-hillary-readme" width="700">
+<img src="holograma-hillary-readme.gif" width="700" alt="Holograma da Hillary">
 
 </div>
 
