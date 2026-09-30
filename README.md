@@ -38,14 +38,7 @@
 
 Criação de sites, interfaces e experiências para a web.
 
-```text
-HTML
-CSS
-JavaScript
-Interfaces
-Front-end
-UI/UX
-```
+`HTML` · `CSS` · `JavaScript` · `Interfaces` · `Front-end` · `UI/UX`
 
 ---
 
@@ -55,14 +48,7 @@ UI/UX
 
 Programação, lógica e construção de soluções.
 
-```text
-Python
-C
-Lógica
-Algoritmos
-Programação
-Sistemas
-```
+`Python` · `C` · `Lógica` · `Algoritmos` · `Programação` · `Sistemas`
 
 ---
 
@@ -89,20 +75,13 @@ Sistemas
 
 ## `MODULE://UI_UX`
 
-```text
-┌─────────────────────────────────────────┐
-│                                         │
-│   UI/UX DESIGN                          │
-│   ─────────────────────────────         │
-│                                         │
-│   ◇ Interfaces                          │
-│   ◇ Prototipação                         │
-│   ◇ Figma                                │
-│   ◇ Experiência do usuário              │
-│   ◇ Design + Tecnologia                 │
-│                                         │
-└─────────────────────────────────────────┘
-```
+### ◇ UI/UX DESIGN
+
+- Interfaces
+- Prototipação
+- Figma
+- Experiência do usuário
+- Design + Tecnologia
 
 ---
 
@@ -112,17 +91,7 @@ Sistemas
 
 Explorando IA como ferramenta de aprendizado, desenvolvimento e resolução de problemas.
 
-```text
-INPUT  →  APRENDER
-        ↓
-ANALISAR
-        ↓
-TESTAR
-        ↓
-VALIDAR
-        ↓
-CRIAR
-```
+**INPUT → APRENDER → ANALISAR → TESTAR → VALIDAR → CRIAR**
 
 ---
 
@@ -131,14 +100,14 @@ CRIAR
 
 <br>
 
-```text
-STATUS        : ONLINE
-FOCO          : TECNOLOGIA
-ÁREA          : DESENVOLVIMENTO
-INTERESSES    : WEB • SISTEMAS • UI/UX • IA
-FERRAMENTA    : FIGMA
-EDITOR        : VS CODE
-```
+**STATUS:** ONLINE  
+**FOCO:** TECNOLOGIA  
+**ÁREA:** DESENVOLVIMENTO  
+**INTERESSES:** WEB • SISTEMAS • UI/UX • IA  
+**FERRAMENTA:** FIGMA  
+**EDITOR:** VS CODE  
+
+<br>
 
 Estou no início da minha trajetória profissional, mas venho construindo projetos, estudando diferentes tecnologias e buscando evoluir constantemente.
 
@@ -153,26 +122,21 @@ Meu objetivo é unir **código + design + criatividade** para criar soluções d
 
 <br>
 
-```bash
-$ whoami
+**whoami**
 
-Hillary
+`Hillary`
 
-$ current_focus
+**current_focus**
 
-web-development
-systems-development
-ui-ux
-artificial-intelligence
+`web-development` · `systems-development` · `ui-ux` · `artificial-intelligence`
 
-$ status
+**status**
 
-● ONLINE
+`● ONLINE`
 
-$ message
+**message**
 
-"aprendendo, criando e evoluindo."
-```
+*"aprendendo, criando e evoluindo."*
 
 </details>
 
