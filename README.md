@@ -1,5 +1,13 @@
 <div align="center">
 
+
+<img src="holograma-hillary-readme.gif" width="700" alt="Holograma da Hillary">
+
+</div>
+
+
+<div align="center">
+
 # ✦ HILLARY
 
 ### `ADS STUDENT • WEB • SYSTEMS • UI/UX`
@@ -14,12 +22,6 @@
 
 ---
 
-<div align="center">
-
-<!-- HOLOGRAMA -->
-<img src="holograma-hillary-readme.gif" width="700" alt="Holograma da Hillary">
-
-</div>
 
 ---
 
