@@ -17,7 +17,7 @@
 <div align="center">
 
 <!-- HOLOGRAMA -->
-<img src="SEU_LINK_DA_IMAGEM_DO_HOLOGRAMA" width="500">
+<img src="holograma-hillary-readme" width="700">
 
 </div>
 
