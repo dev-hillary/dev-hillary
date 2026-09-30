@@ -4,7 +4,7 @@
 
 ### `ADS STUDENT • WEB • SYSTEMS • UI/UX`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F08ACB&center=true&vCenter=true&width=500&lines=desenvolvimento+web+%E2%80%A2+desenvolvimento+de+sistemas;UI%2FUX+%E2%80%A2+tecnologia+%E2%80%A2+criatividade;construindo%2C+aprendendo+e+evoluindo." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=F08ACB&center=true&vCenter=true&width=500&lines=desenvolvimento+web;desenvolvimento+de+sistemas;UI%2FUX+%E2%80%A2+tecnologia;aprendendo%2C+criando+e+evoluindo." />
 
 <br>
 
